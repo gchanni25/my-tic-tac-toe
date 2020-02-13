@@ -1,4 +1,5 @@
 //tic tac toe code
+//im having trouble with gitbash
 function checkForWinner() {
   console.log("checking for winner...")
   var winner
